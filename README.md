@@ -1,2 +1,2 @@
-# queformal
-Data and code storage for the queformal project
+# test project
+Data and code storage for the test project
